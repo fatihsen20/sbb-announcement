@@ -42,3 +42,9 @@ nohup python app.py &
 ```
 
 - Program çalıştırıldığında, ilanlar kontrol edilir ve yeni ilan varsa e-posta gönderilir.
+
+## Ekran Görüntüleri
+
+- Programın çalıştığına dair ekran görüntüsü:
+
+![image](img/image.png)
