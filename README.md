@@ -29,7 +29,7 @@ TO_MAIL = "to_mail"
 
 ## Kullanım
 
-- Programı çalıştırmak için aşağıdaki komutları çalıştırabilirsiniz:
+- Programı çalıştırmak için aşağıdaki komutu çalıştırabilirsiniz:
 
 ```bash
 python app.py
@@ -41,4 +41,4 @@ python app.py
 nohup python app.py &
 ```
 
-- Program çalıştırıldığında, ilanlar kontrol edilir ve yeni ilanlar varsa e-posta gönderilir.
+- Program çalıştırıldığında, ilanlar kontrol edilir ve yeni ilan varsa e-posta gönderilir.
